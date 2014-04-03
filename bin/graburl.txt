@@ -1,0 +1,1 @@
+http://www.youtube.com/results?search_query=let%27s+play&filters=channel&page=$1

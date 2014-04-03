@@ -1,0 +1,5 @@
+C:\Users\Damon Wall\Desktop\YoutubeGrabber\bin\DatabaseCreator.exe
+C:\Users\Damon Wall\Desktop\YoutubeGrabber\bin\DatabaseCreator.pdb
+C:\Users\Damon Wall\Desktop\YoutubeGrabber\DatabaseCreator\obj\Debug\DatabaseCreator.exe
+C:\Users\Damon Wall\Desktop\YoutubeGrabber\DatabaseCreator\obj\Debug\DatabaseCreator.pdb
+C:\Users\Damon Wall\Desktop\YoutubeGrabber\DatabaseCreator\obj\Debug\DatabaseCreator.csprojResolveAssemblyReference.cache

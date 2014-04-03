@@ -1,0 +1,4372 @@
+<root>
+  <nodes>
+    <channel>
+      <name>LetsPlay</name>
+      <url>/user/LetsPlay</url>
+      <subscribers>2,389,390</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play - Topic</name>
+      <url>/channel/UCubwwGsGHo4_PYw1wmdKuXQ</url>
+      <subscribers>424,062</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Beam</name>
+      <url>/user/BeamLPP</url>
+      <subscribers>51,552</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Plays All Day</name>
+      <url>/user/LetsPlaysAllDay</url>
+      <subscribers>4,633</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Deriums Lets Play</name>
+      <url>/user/deriumsletsplay</url>
+      <subscribers>781</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>DJ Hes Lets Plays</name>
+      <url>/user/djhesLPs</url>
+      <subscribers>8,532</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play With Brigands</name>
+      <url>/user/letsplaywithbrigands</url>
+      <subscribers>220</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Boom Beach Lets Play</name>
+      <url>/user/DigitalPlanet007</url>
+      <subscribers>8,322</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Helloween4545</name>
+      <url>/user/Helloween4545</url>
+      <subscribers>46,991</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>linky1029 Lets Play</name>
+      <url>/user/TheLinky1029lp</url>
+      <subscribers>136</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Nuppzi Let&amp;#39;s Play</name>
+      <url>/user/NuppziLPs</url>
+      <subscribers>2,912</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Balkan Let&amp;#39;s Play</name>
+      <url>/user/BalkanGangsta92</url>
+      <subscribers>5,705</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Biggys Lets Plays</name>
+      <url>/user/imbiggy</url>
+      <subscribers>2,376</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Seri! Let&amp;#39;s Play!</name>
+      <url>/user/serisims</url>
+      <subscribers>2,551</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play Casual Games</name>
+      <url>/user/LetsPlayCasualGames</url>
+      <subscribers>378</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>GeneralSecura Let&amp;#39;s Plays</name>
+      <url>/user/GeneralSecura</url>
+      <subscribers>16,160</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Lets Play Everything</name>
+      <url>/user/LetsPlayWiiU</url>
+      <subscribers>900</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>The Let&amp;#39;s Play Community</name>
+      <url>/user/iraqmilner</url>
+      <subscribers>2,687</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Alonzorion&amp;#39;s Blind Let&amp;#39;s Plays!</name>
+      <url>/user/Alonzorion</url>
+      <subscribers>2,239</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>SKS Plays</name>
+      <url>/user/ioaz81</url>
+      <subscribers>3,316</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Digger318 Let&amp;#39;s Play</name>
+      <url>/user/Digger318GeekGo</url>
+      <subscribers>1,930</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Macsen Lets Plays</name>
+      <url>/user/MacsenGaming</url>
+      <subscribers>660</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Chris Jay Let&amp;#39;s Plays</name>
+      <url>/user/GamingWithChrisJay</url>
+      <subscribers>8,771</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>BROgaming Let&amp;#39;s Play</name>
+      <url>/channel/UCHuglSGLpzaUy4A2PI7fAXA</url>
+      <subscribers>18</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Xanos&amp;#39; Let&amp;#39;s Play</name>
+      <url>/user/xanosplay</url>
+      <subscribers>184</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>EthosLab</name>
+      <url>/user/EthosLab</url>
+      <subscribers>1,460,705</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play FIFA Channel</name>
+      <url>/user/LetsPlayFifaIT</url>
+      <subscribers>6,878</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>LET&amp;#39;S PLAY TODAY - fitness fun for kids</name>
+      <url>/user/fitnessfunforkids</url>
+      <subscribers>669</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play House</name>
+      <url>/user/LPHNYC</url>
+      <subscribers>1,348</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Rednoser | Let&amp;#39;s Play</name>
+      <url>/user/rednoser3000</url>
+      <subscribers>882</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Donnabellez</name>
+      <url>/user/donnabellez</url>
+      <subscribers>45,155</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>BX Lets Play</name>
+      <url>/channel/UCijwMx2J5WeCyoIl_pjYoyg</url>
+      <subscribers>41</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s play от Пчёлкина</name>
+      <url>/user/pchelkinplay</url>
+      <subscribers>11,430</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>WiiRikeToPray</name>
+      <url>/user/WiiRikeToPray</url>
+      <subscribers>219,397</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Kids Let&amp;#39;s Play !</name>
+      <url>/channel/UCnMuCJCpPxztV0sYM1upJQA</url>
+      <subscribers>22</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>direwolf20</name>
+      <url>/user/direwolf20</url>
+      <subscribers>353,732</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play With Darnell</name>
+      <url>/user/LetsPlayWithDarnell</url>
+      <subscribers>244</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>chuggaaconroy</name>
+      <url>/user/chuggaaconroy</url>
+      <subscribers>807,428</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play Polska</name>
+      <url>/user/FreeMovies0007</url>
+      <subscribers>156</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>NerdalertGames</name>
+      <url>/user/NerdalertGames</url>
+      <subscribers>81,401</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Shameful Let&amp;#39;s Play</name>
+      <url>/user/shamefulletsplay</url>
+      <subscribers>245</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Gerugon</name>
+      <url>/user/Gerugon</url>
+      <subscribers>5,802</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play! LoudySpeak</name>
+      <url>/user/LetsPlayLoudySpeak</url>
+      <subscribers>24</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Kabalyero&amp;#39;s Let&amp;#39;s Play Channel (TGN)</name>
+      <url>/user/KabalyeroGameTV</url>
+      <subscribers>439</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>TheLPN05 | King of NFS</name>
+      <url>/user/TheLetsPlayNoob05</url>
+      <subscribers>26,914</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Cat&amp;#39;s Lets Play Channel!</name>
+      <url>/user/USDMcat</url>
+      <subscribers>587</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>damo2986</name>
+      <url>/user/damo2986</url>
+      <subscribers>15,060</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>HCBailly</name>
+      <url>/user/HCBailly</url>
+      <subscribers>72,927</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Russian Let&amp;#39;s Play</name>
+      <url>/user/RussianONIZUKA</url>
+      <subscribers>31,163</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>yahtzee19</name>
+      <url>/user/yahtzee19</url>
+      <subscribers>97,304</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>TGN - Let&amp;#39;s Play</name>
+      <url>/user/tgnLetsPlay</url>
+      <subscribers>27,355</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>88 Plays</name>
+      <url>/user/Steviie88</url>
+      <subscribers>109</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Kikoskia</name>
+      <url>/user/Kikoskia</url>
+      <subscribers>40,626</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play Blender Games!</name>
+      <url>/user/qazPlaysGames</url>
+      <subscribers>88</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s play on PC</name>
+      <url>/user/LetsPlayOnPC</url>
+      <subscribers>139</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>LetsPlayPoRusski</name>
+      <url>/user/LetsPlayPoRusski</url>
+      <subscribers>150,667</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>kwingsletsplays</name>
+      <url>/user/kwingsletsplays</url>
+      <subscribers>114,437</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Dazran303 | Nintendo Lets Play!</name>
+      <url>/user/Dazran303LP</url>
+      <subscribers>5,141</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Rainy Day Let&amp;#39;s Play</name>
+      <url>/user/Critsplosion</url>
+      <subscribers>746</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>The AuZZie Gamer</name>
+      <url>/user/TheAuZZieGamer</url>
+      <subscribers>115,428</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Wings of Redemption Let&amp;#39;s Play</name>
+      <url>/user/WORGODYT</url>
+      <subscribers>33,518</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>IsolatedPawn - Let&amp;#39;s Plays für Erwachsene</name>
+      <url>/user/isolatedpawn12</url>
+      <subscribers>9,650</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Lets Play with A3D</name>
+      <url>/user/Acantophis3rd</url>
+      <subscribers>3,477</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Lets Play with Chris</name>
+      <url>/channel/UC_KTi6EJr5U6v4Pt8lSggLQ</url>
+      <subscribers>13</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Rich &amp;quot;Lowtax&amp;quot; Kyanka - Gaming Garbage</name>
+      <url>/user/lowtaxico</url>
+      <subscribers>25,153</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Daily Let&amp;#39;s Plays with Daniel!</name>
+      <url>/user/danielmus100</url>
+      <subscribers>1,216</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Srpski Let&amp;#39;s Play™ ★ TGN Partner</name>
+      <url>/user/TheImperialCraft</url>
+      <subscribers>12,931</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play avec Shiva</name>
+      <url>/user/Shivayoho</url>
+      <subscribers>3,698</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Marik Plays With Himself</name>
+      <url>/user/ObeyMyRod</url>
+      <subscribers>65,306</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>quill18</name>
+      <url>/user/quill18</url>
+      <subscribers>141,135</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>lets play- dynamo</name>
+      <url>/channel/UCc6Lkk-Y24PJ9t0tkfT-Z9g</url>
+      <subscribers>15</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>So Its Fun to Let&amp;#39;s Play!</name>
+      <url>/user/ThePenguinguru</url>
+      <subscribers>44</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Shadowhunter87 Let&amp;#39;s Play</name>
+      <url>/channel/UC-c6v7fjv8xzirid9FiJPmw</url>
+      <subscribers>5</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>PlayClashOfClans</name>
+      <url>/user/PlayClashOfClans</url>
+      <subscribers>532,425</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play OSG (Дядя Женя)</name>
+      <url>/user/LetsPlayOSG</url>
+      <subscribers>70,141</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Swifty</name>
+      <url>/user/Swifty</url>
+      <subscribers>96,611</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Sajuuk&amp;#39;s Let&amp;#39;s Play&amp;#39;s</name>
+      <url>/user/SuperSajuuk</url>
+      <subscribers>4,593</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>► Agraelovo Let&amp;#39;s Play Šílenství ◄</name>
+      <url>/user/TheAgraelus</url>
+      <subscribers>23,143</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>James Shore</name>
+      <url>/user/jdlshore</url>
+      <subscribers>2,669</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>rendog</name>
+      <url>/user/rendog</url>
+      <subscribers>86,602</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>STEVE_OH&amp;#39;S LETS PLAY</name>
+      <url>/user/evenstephen2</url>
+      <subscribers>308</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>GoldGloveLetsPlays</name>
+      <url>/user/GoldGloveLetsPlays</url>
+      <subscribers>155,674</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>EvilBuschiLP</name>
+      <url>/user/EvilBuschiLP</url>
+      <subscribers>25,760</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>SirEldricIV</name>
+      <url>/user/SirEldricIV</url>
+      <subscribers>5,984</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Ye Olde Let&amp;#39;s Play</name>
+      <url>/user/yeoldeletsplay</url>
+      <subscribers>702</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Skye Rangers Let&amp;#39;s Play</name>
+      <url>/channel/UCqTInTI-rpmOSwP4gl4WvEw</url>
+      <subscribers>20</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>veriax</name>
+      <url>/user/veriax</url>
+      <subscribers>19,616</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>SlimKirby</name>
+      <url>/user/SlimKirby</url>
+      <subscribers>84,590</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>LetsPlayOnkel</name>
+      <url>/user/LetsPlayOnkel</url>
+      <subscribers>11,400</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>OBLIVION LET&amp;#39;S PLAY, NOW ROLLING.</name>
+      <url>/user/dellboy177</url>
+      <subscribers>358</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Guaranteed Irish Let&amp;#39;s Plays</name>
+      <url>/user/RockPaperMario</url>
+      <subscribers>2,078</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Simon Says: Lets Play Video Games</name>
+      <url>/user/SimonSaysLPs</url>
+      <subscribers>233</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>The Lets Play Show</name>
+      <url>/user/TLPSwithMnJ</url>
+      <subscribers>41</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Irish Let&amp;#39;s Play</name>
+      <url>/user/Roniboney2</url>
+      <subscribers>28</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>TheStrawhatNO</name>
+      <url>/user/TheStrawhatNO</url>
+      <subscribers>3,101</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Valgaav19</name>
+      <url>/user/Valgaav19</url>
+      <subscribers>2,015</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Deceased Crab</name>
+      <url>/user/DeceasedCrab</url>
+      <subscribers>34,700</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Dilandau3000</name>
+      <url>/user/Dilandau3000</url>
+      <subscribers>5,905</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>TBMT Let&amp;#39;s Play</name>
+      <url>/channel/UCgHhkAL3aA8JMpZ1kULkrfw</url>
+      <subscribers>7</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Rocket Beans TV Let&amp;#39;s Play</name>
+      <url>/user/RocketbeansLetsPlay</url>
+      <subscribers>37,026</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play Music</name>
+      <url>/user/allthingsmusicshow</url>
+      <subscribers>30</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>MrHurriicaneLP</name>
+      <url>/user/MrHurriicaneLP</url>
+      <subscribers>12,622</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play Together</name>
+      <url>/user/LetsPlayTogetherLIVE</url>
+      <subscribers>192,762</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s play PS3 Game</name>
+      <url>/channel/UC_tX4rhU9bEWG4L3CZ2WEZg</url>
+      <subscribers>304</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>CaMp Let&amp;#39;s Play</name>
+      <url>/channel/UCswPc5XtFwZVBq9zV2_qVmQ</url>
+      <subscribers>1</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>His &amp;amp; Hers Lets Play</name>
+      <url>/user/hisnherlp</url>
+      <subscribers>22</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>➹ zeloy | Let&amp;#39;s Play</name>
+      <url>/user/ze7oy</url>
+      <subscribers>173</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play The World!</name>
+      <url>/user/KewlioMZX</url>
+      <subscribers>109</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Tuto - Let&amp;#39;s play - Fun</name>
+      <url>/channel/UCEe0YpkOl-wZtyy9pD65t_Q</url>
+      <subscribers>446</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Bioshock infinite - Let&amp;#39;s play Bioshock HD</name>
+      <url>/user/GamerzStation360</url>
+      <subscribers>45</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play with Achmed</name>
+      <url>/user/LetsPlaywithachmed</url>
+      <subscribers>9</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>COMBO: The Let&amp;#39;s Play Community</name>
+      <url>/user/comboLPC</url>
+      <subscribers>28,066</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play MMOs</name>
+      <url>/user/CanalLetsPlayVideos</url>
+      <subscribers>201,498</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>davidr64yt&amp;#39;s channel</name>
+      <url>/user/davidr64yt</url>
+      <subscribers>19</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>R.U. Game? - Lets Play</name>
+      <url>/user/RuGameLetsPlay</url>
+      <subscribers>15</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Harry&amp;#39;s Lets Play</name>
+      <url>/channel/UCkK04Ugdo0sA8s6PdNShpaw</url>
+      <subscribers>283</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>blinkycab Let&amp;#39;s Play</name>
+      <url>/user/blinkycabletsplay</url>
+      <subscribers>156</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s play Thai by Zealot</name>
+      <url>/user/akeincubus</url>
+      <subscribers>32,985</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>iMAVERIQ</name>
+      <url>/user/iMAVERIQ</url>
+      <subscribers>7</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play JAM with Chrome</name>
+      <url>/user/FikaJAM</url>
+      <subscribers></subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Lets Play with Rhareg</name>
+      <url>/user/Letsplaywithrhareg</url>
+      <subscribers>21</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Epos &amp;amp; Chu | Let&amp;#39;s Play Together</name>
+      <url>/user/EposVox</url>
+      <subscribers>9,298</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>sambonz</name>
+      <url>/user/sambonz</url>
+      <subscribers>24,232</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Funny Let&amp;#39;s Play&amp;#39;s</name>
+      <url>/user/GamerShroud99</url>
+      <subscribers>336</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Lets Play House South Africa</name>
+      <url>/user/LetsPlayHouse247</url>
+      <subscribers>13</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>PyroFalkon&amp;#39;s Let&amp;#39;s Play Extravaganza</name>
+      <url>/user/PyroFalkon</url>
+      <subscribers>1,639</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play Music</name>
+      <url>/user/LetsPlayGuitarUK</url>
+      <subscribers>451</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Jiraya Let&amp;#39;s Play</name>
+      <url>/user/JirayaLetsPlay</url>
+      <subscribers>8,569</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>GTA San Andreas Let&amp;#39;s Play, The Last Of Us!</name>
+      <url>/user/MozzaGamer</url>
+      <subscribers>1,810</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let´s Play ArcheAge - Das Videomagazin</name>
+      <url>/user/bcofido</url>
+      <subscribers>76</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>PC Let&amp;#39;s Play</name>
+      <url>/user/PCLetsPlayGames</url>
+      <subscribers>45,198</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Sooo Mungry&amp;#39;s Lets Plays, Walkthroughs &amp;amp; Transformers!!!</name>
+      <url>/user/SoooMungry</url>
+      <subscribers>12</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play GamesEtv</name>
+      <url>/user/GamesEtv</url>
+      <subscribers>10</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Vorpal Lets Play</name>
+      <url>/user/VorpalLongPlay</url>
+      <subscribers>1</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Jonny Lets Play</name>
+      <url>/channel/UCbT8KIxgTIpxa7pED7jvRMQ</url>
+      <subscribers>165,082</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Proton Jon</name>
+      <url>/user/ProtonJonSA</url>
+      <subscribers>165,082</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play :P</name>
+      <url>/user/MrSquishyTurtle</url>
+      <subscribers>1,587</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Mineface Let&amp;#39;s Play Channel</name>
+      <url>/user/TheMrMineface</url>
+      <subscribers>48</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Sputtis Let&amp;#39;s Play Account</name>
+      <url>/user/SputtiiLP</url>
+      <subscribers>4,123</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>hercrabbiness</name>
+      <url>/user/hercrabbiness</url>
+      <subscribers></subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play TV</name>
+      <url>/user/LetsPlayTV</url>
+      <subscribers>3,198</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s play to Games | LPTG</name>
+      <url>/user/LetsPlayToGamesMine</url>
+      <subscribers>14,558</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play Nation</name>
+      <url>/channel/UCq0r-nwtpkLVdnmSJeQkoAg</url>
+      <subscribers>7</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s play Bro</name>
+      <url>/user/RedPlumbumSibir</url>
+      <subscribers>4,898</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>demilogic</name>
+      <url>/user/demilogic</url>
+      <subscribers>49,243</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Welp, Let&amp;#39;s Play</name>
+      <url>/user/welpletsplay</url>
+      <subscribers>29</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>UD Let&amp;#39;s Play</name>
+      <url>/channel/UCxXweKKu2TUe3O-1d4BTj0w</url>
+      <subscribers>6</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play Music</name>
+      <url>/channel/UCEmBd3_lJSUB4PZaSW73hdQ</url>
+      <subscribers>17</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Stoneyweb21 Let&amp;#39;s Play</name>
+      <url>/user/Stoneyweb21</url>
+      <subscribers>53</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Novawar LAGTV</name>
+      <url>/user/computerplayer1</url>
+      <subscribers>22,874</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s play CreeperMans</name>
+      <url>/channel/UCu_GSh0laAfWdZ6Vqa9Apaw</url>
+      <subscribers>0</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>let&amp;#39;s play percussion</name>
+      <url>/channel/UCGZFrk_qhaOq7hef_ghgAQg</url>
+      <subscribers>15</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Project Let&amp;#39;s Play.</name>
+      <url>/user/PlayingProjects</url>
+      <subscribers>26</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play Role Playing Games</name>
+      <url>/user/LPRPG</url>
+      <subscribers>452</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Lets Play | Pokemon!</name>
+      <url>/user/IntenseWalkthrough</url>
+      <subscribers>93</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>The Sheep Project - Let&amp;#39;s Play!</name>
+      <url>/user/SheepProject</url>
+      <subscribers>64</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Lets Play Games</name>
+      <url>/channel/UCSI4Nn1ULxVBX6aUZjtC_gQ</url>
+      <subscribers>1</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>PurpleRodri</name>
+      <url>/user/PurpleRodri</url>
+      <subscribers>216,052</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>LPMassive</name>
+      <url>/user/LPMassive</url>
+      <subscribers>19,587</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Necroscope86</name>
+      <url>/user/Necroscope86</url>
+      <subscribers>72,646</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Канал Дани и Влада :3 [Fire Wins Team]</name>
+      <url>/channel/UCVHiU0gJGfe7nqnBPbwGeEw</url>
+      <subscribers>191</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s play MailoHooD Подпишись! :3 |MOVIE ARTS|</name>
+      <url>/user/mailohood</url>
+      <subscribers>169</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>CoLiNieS Lets Play&amp;#39;s</name>
+      <url>/channel/UC8NLcc0Kj19Z5xm1y1oNqHg</url>
+      <subscribers>155</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Lets play GTA 5</name>
+      <url>/channel/UCb4Dk1bgWwe8zABpPWgVDnQ</url>
+      <subscribers>9</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play</name>
+      <url>/user/TechnologyWorldNews1</url>
+      <subscribers>937</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>UrDominantMate&amp;#39;s Let&amp;#39;s Play!</name>
+      <url>/channel/UCn_vJigQlqpy4KzwrIIq2Dw</url>
+      <subscribers>2</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Legendary_Shade: The Let&amp;#39;s Play World</name>
+      <url>/user/ShadesLetsPlayWorld</url>
+      <subscribers>87</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Маракаси let&amp;#39;s play</name>
+      <url>/user/MarakasiShow</url>
+      <subscribers>1,045</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play Episode</name>
+      <url>/user/letsplayepisode</url>
+      <subscribers>18</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play &amp;amp; Vidéo Découverte</name>
+      <url>/user/FrSera</url>
+      <subscribers>84</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>GermanLetsPlay</name>
+      <url>/user/GermanLetsFail</url>
+      <subscribers>591,380</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Toegoff</name>
+      <url>/user/Toegoff</url>
+      <subscribers>22,430</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Hermanos xRetroGamesx &amp;quot; VideoGuias &amp;amp; Let&amp;#39;s Play &amp;quot;</name>
+      <url>/user/xRetroGamesx</url>
+      <subscribers>53,266</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play with Lailu ♥</name>
+      <url>/user/LailuneLPs</url>
+      <subscribers>9</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play Legit</name>
+      <url>/channel/UClxOWJtMQZt4FrfOgOar_Cw</url>
+      <subscribers>3</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play Minecraft</name>
+      <url>/user/TheKepspojke</url>
+      <subscribers>116</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Lets Play Game</name>
+      <url>/channel/UC9yncdygvaBeoPttBX74d-g</url>
+      <subscribers>8</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play Gaming! - SheepNDane</name>
+      <url>/user/SheepNDane</url>
+      <subscribers>4,511</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>West Coast Berg - Let&amp;#39;s play!</name>
+      <url>/user/WestCoastBerg</url>
+      <subscribers>268</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play Germany - Play a Game</name>
+      <url>/user/Letsplaygermany2013</url>
+      <subscribers>180</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play! - EktomorfTornado</name>
+      <url>/user/EktomorfTornado</url>
+      <subscribers>10</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play Yume Nikki</name>
+      <url>/user/SeccomMasadaSensei</url>
+      <subscribers>13</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>HoneyballGames</name>
+      <url>/user/HoneyballLP</url>
+      <subscribers>294,249</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Lets Play with the GamblerBrothers!</name>
+      <url>/user/GamblerBrothers</url>
+      <subscribers>218</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Pokemon Let&amp;#39;s Play&amp;#39;s and Walkthrough&amp;#39;s</name>
+      <url>/user/LetsPlayPokemonHQ</url>
+      <subscribers>332</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play&amp;#39;s mit DestLP:)</name>
+      <url>/user/DestLP</url>
+      <subscribers>817</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play Minecraft &amp;amp; More</name>
+      <url>/user/GameLPWorld</url>
+      <subscribers>68</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Northernlion</name>
+      <url>/user/Northernlion</url>
+      <subscribers>293,590</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>NelkeyLet&amp;#39;sPlay - Let&amp;#39;s Play a Game!</name>
+      <url>/user/nelkeyletsplay</url>
+      <subscribers>13</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play&amp;#39;s and Technology!</name>
+      <url>/user/TechGroundsTV</url>
+      <subscribers>248</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s play a game</name>
+      <url>/user/XardasLetsPlay</url>
+      <subscribers>560</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>NintendoCapriSun</name>
+      <url>/user/NintendoCapriSun</url>
+      <subscribers>336,090</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Aknaton Let&amp;#39;s Play</name>
+      <url>/channel/UCigDNlNtkp_pPVKP4esqfpw</url>
+      <subscribers>20</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>LETSPLAYmarkus</name>
+      <url>/user/NeoSunLPM</url>
+      <subscribers>78,194</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Dydy2218 | Chaine Secondaire | Let&amp;#39;s Play &amp;amp; FTB</name>
+      <url>/channel/UCQkent10OkKBQP23wTKPjtw</url>
+      <subscribers>23</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>ASMR Let&amp;#39;s Play</name>
+      <url>/user/AsmrLetUsPlay</url>
+      <subscribers>363</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Shade &amp;amp; Vinx Let&amp;#39;s Play</name>
+      <url>/channel/UCmmPEhaOcYLsol_XdEaDV8w</url>
+      <subscribers>22</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Salazar Let&amp;#39;s Play</name>
+      <url>/user/SalazarLetsPlay</url>
+      <subscribers>27</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>LoReNzHD Let&amp;#39;s Play Kanal ;)</name>
+      <url>/user/LoReNzHD3</url>
+      <subscribers>81</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Lets Play Stoned</name>
+      <url>/channel/UCboAhyHNPtE-ZCpNuKIFURA</url>
+      <subscribers>1</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Lets Play With Guga</name>
+      <url>/user/LetsPlayWithGuga</url>
+      <subscribers>16</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s play the guitar !</name>
+      <url>/user/letsplaytheguitar</url>
+      <subscribers>193</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>kasrev let&amp;#39;s play</name>
+      <url>/user/kasrev95</url>
+      <subscribers>2</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play Overviews</name>
+      <url>/user/Letsplayoverviews</url>
+      <subscribers>20</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>gixG17</name>
+      <url>/user/gixG17</url>
+      <subscribers>14,169</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>KCA das Let&amp;#39;s Play Team</name>
+      <url>/user/KCAPlays</url>
+      <subscribers>9</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Bradysgames Let&amp;#39;s Play Some Games</name>
+      <url>/user/bradysgames</url>
+      <subscribers>27</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>German Lets Play`s &amp;amp; More</name>
+      <url>/user/MrFalter09</url>
+      <subscribers>18</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Homestuck Lets Play</name>
+      <url>/channel/UC_D99T-uAaiHGpZD0Ss1Rqg</url>
+      <subscribers>10</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Lets Play Games with Feniks</name>
+      <url>/user/LetsPlayPCGames1</url>
+      <subscribers>46,120</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>TheWolverous</name>
+      <url>/user/TheWolverous</url>
+      <subscribers>46,120</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play!</name>
+      <url>/channel/UCG64h9IR3mQyL1DiSwm3xVQ</url>
+      <subscribers>1</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play Germany</name>
+      <url>/user/LetUsPlayGermany</url>
+      <subscribers>7</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Lets Play mit Hirnlosigkeit</name>
+      <url>/user/DesiraLetsPlay</url>
+      <subscribers></subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play Guitar Center</name>
+      <url>/channel/UCZDUVeZ4FXI5NSyygUT5wzQ</url>
+      <subscribers>0</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>The FinalWalrus Let&amp;#39;s Play Show</name>
+      <url>/user/FinalWalrusLP</url>
+      <subscribers>31</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Lets Play</name>
+      <url>/user/DarkSephirothLP</url>
+      <subscribers>446</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Lets Play Benny</name>
+      <url>/channel/UCtThJ-iNccalpFWtot8cOfQ</url>
+      <subscribers>16</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>One F Jef</name>
+      <url>/user/jefmajor</url>
+      <subscribers>67,299</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play with Foxracer</name>
+      <url>/channel/UC6SSeRmN-DAhQy5khIfvYWA</url>
+      <subscribers>6</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s play with Robotics aP</name>
+      <url>/user/silanteagle</url>
+      <subscribers>29</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>TheJFKGamer&amp;#39;s Let&amp;#39;s Play Channel!</name>
+      <url>/user/ObviouslyJFK</url>
+      <subscribers>1,131</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Duzt Lets Play</name>
+      <url>/user/DuztLetsPlay</url>
+      <subscribers>15</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play in HD!</name>
+      <url>/user/DragonFyaaa</url>
+      <subscribers>22</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Lets Play, Learn, and Have Fun!</name>
+      <url>/user/v3nom101</url>
+      <subscribers>205</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>RoaqzLetsPlays</name>
+      <url>/user/RoaqzLetsPlays</url>
+      <subscribers>6</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play in the Darkness</name>
+      <url>/user/DeathiciousPlays</url>
+      <subscribers>112</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s play video games</name>
+      <url>/user/videogamesgaming</url>
+      <subscribers>424</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play !</name>
+      <url>/user/DarkRaztalLP</url>
+      <subscribers>36</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>TheDutchLPer || Let&amp;#39;s Play!</name>
+      <url>/user/TheDutchLPer</url>
+      <subscribers>572</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>#1 Asian Let&amp;#39;s Play Youtuber</name>
+      <url>/user/TheRagingCyndaquil</url>
+      <subscribers>556</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>MreGamers Lets Play</name>
+      <url>/user/MreGamersLP</url>
+      <subscribers>38</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Number 6 Let&amp;#39;s Play</name>
+      <url>/user/NoVaGameTime</url>
+      <subscribers>17</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>GreenBot.de - Let&amp;#39;s Play</name>
+      <url>/user/GreenBotDE</url>
+      <subscribers></subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Lets play Loards</name>
+      <url>/channel/UCXIr2aItYYoPNq3iwa62ymg</url>
+      <subscribers>5</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Dethklok&amp;#39;s Let&amp;#39;s Play and Animations</name>
+      <url>/channel/UC2taPS0cI0tnDN6hcKc2VTA</url>
+      <subscribers>2</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play</name>
+      <url>/channel/UCW30iAJRI9pGvc22rV_8BtQ</url>
+      <subscribers>58</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Lets Play Peas</name>
+      <url>/user/MrMushipeas4</url>
+      <subscribers>1,822</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Kominek Let&amp;#39;s Play</name>
+      <url>/channel/UCkM_3EsL3eq4o79UpigRRmQ</url>
+      <subscribers>4</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play Faunasphere</name>
+      <url>/user/GypsyWomanToo</url>
+      <subscribers>53</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>FlashAimings Lets Play Channel</name>
+      <url>/user/GermanAimingTV</url>
+      <subscribers>207</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Rock the Let&amp;#39;s Play!</name>
+      <url>/user/MarcGamings</url>
+      <subscribers>46</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>LLP Lopko Lets Play</name>
+      <url>/channel/UCZWdYBZAvRn6w5acNtAmDrw</url>
+      <subscribers>4</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Lets play</name>
+      <url>/user/RNNGC</url>
+      <subscribers>587</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Pitri - Let&amp;#39;s Play</name>
+      <url>/user/lppitri</url>
+      <subscribers>18</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Fun Lets Play</name>
+      <url>/user/Killercam873</url>
+      <subscribers>3</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play w/AJ</name>
+      <url>/channel/UCO-c-rPapQxJ8BfRWDvxK7w</url>
+      <subscribers>9</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>SuperJeenius</name>
+      <url>/user/SuperJeenius</url>
+      <subscribers>65,682</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>TitillatingGamer - Let&amp;#39;s Play Daily Videos!</name>
+      <url>/user/TitillatingGamer</url>
+      <subscribers>20</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Tuc - Let&amp;#39;s Play and more ...</name>
+      <url>/user/ooOTucOoo</url>
+      <subscribers>7,880</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Quiriyon&amp;#39;s Let&amp;#39;s Play</name>
+      <url>/channel/UCAOVh2SfKKmLoQx44fjDKYg</url>
+      <subscribers>34</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Lets Play!</name>
+      <url>/user/Shockwave394</url>
+      <subscribers>201</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play/Editing + HDCam = Wir &amp;#39;-&amp;#39;</name>
+      <url>/user/BioHazardCorperation</url>
+      <subscribers>251</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>All Inclusive Let&amp;#39;s Play</name>
+      <url>/channel/UCx2HbV_R7Aq0GRrJtjO9azw</url>
+      <subscribers>6</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Zippit Gaming - Let&amp;#39;s play random games!</name>
+      <url>/user/ZippitGaming</url>
+      <subscribers>8</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play With Bynkz</name>
+      <url>/channel/UCgubj7xpzv_4EA5hx-yF-pA</url>
+      <subscribers>11</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>TechnoObi | Let&amp;#39;s Play und mehr</name>
+      <url>/user/TechnoObi</url>
+      <subscribers>1,022</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>FettspielenDE</name>
+      <url>/user/FettspielenDE</url>
+      <subscribers>8,110</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Lets play bis die Finger glühn</name>
+      <url>/user/Marmaster1</url>
+      <subscribers>72</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Yazino - Let&amp;#39;s Play!</name>
+      <url>/user/YazinoLetsPlay</url>
+      <subscribers>943</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Moke Lets Play</name>
+      <url>/channel/UCf17zx2rRbFHmRt5LNM0WwQ</url>
+      <subscribers>2</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Lets Play´s mit Herz  . ♥♥♥ . wieder OnAir 10.6</name>
+      <url>/user/HardscopesLP</url>
+      <subscribers>18</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>CoGP2 Let&amp;#39;s Play Fun/Madness</name>
+      <url>/user/CoGP2</url>
+      <subscribers>49</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play op Lëtzebuergesch! (inaktiv)</name>
+      <url>/user/lpluxemburg</url>
+      <subscribers>30</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play Something</name>
+      <url>/user/RevolutionMaster</url>
+      <subscribers>81</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>LET&amp;#39;s PLAY AND LET&amp;#39;S FAIL!</name>
+      <url>/user/MrMistakesWereMade</url>
+      <subscribers>405</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Science Let&amp;#39;s Play</name>
+      <url>/user/ScienceLetsPlay</url>
+      <subscribers>2</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>La Team Let&amp;#39;s Play</name>
+      <url>/user/lateamletsplay</url>
+      <subscribers>108</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play Together</name>
+      <url>/user/PixelChixelLP</url>
+      <subscribers>36</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play PL ;]</name>
+      <url>/user/Nakata401</url>
+      <subscribers>14</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play in English!</name>
+      <url>/user/FallenHerbb666</url>
+      <subscribers>11</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play Comedy XXL</name>
+      <url>/user/SgeLetsPlay1</url>
+      <subscribers>21</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s play mit Niklas</name>
+      <url>/channel/UC7X8r-T7J6FIYwwkI1bvNpg</url>
+      <subscribers>15</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play ... po polsku</name>
+      <url>/user/JJayJoker</url>
+      <subscribers>357,972</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Nobrain Let&amp;#39;s Play!</name>
+      <url>/user/NobrainsLetsPlay</url>
+      <subscribers>59</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Perry und Anojek Lets Play</name>
+      <url>/user/Helghastsoldat</url>
+      <subscribers>32</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play</name>
+      <url>/user/ClassicGamersLP</url>
+      <subscribers>51</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>GamerNeu | Turkish Let&amp;#39;s Play</name>
+      <url>/user/GamerNeu</url>
+      <subscribers>97</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>lets play</name>
+      <url>/user/letsplay74594f</url>
+      <subscribers>16</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Silver Let&amp;#39;s Play &amp;amp; Gaming</name>
+      <url>/user/IISilverll</url>
+      <subscribers>342</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>let&amp;#39;s play</name>
+      <url>/user/letsplayfusionfall</url>
+      <subscribers>94</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Fade | Lets Play World of Warcraft!</name>
+      <url>/user/RDesignsGFX</url>
+      <subscribers>964</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play mit Simon&amp;amp;Jack</name>
+      <url>/user/Rhimon</url>
+      <subscribers>68</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Lets play su Timeshiftu</name>
+      <url>/user/MrTimeshiftChanell</url>
+      <subscribers>347</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play Viking Style</name>
+      <url>/user/BloodRedViking</url>
+      <subscribers>118</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>rabbît | Lets Play</name>
+      <url>/user/MrRabbitLetsPlay</url>
+      <subscribers>25</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play Old School GameBoy!</name>
+      <url>/user/GameBoy2o1o</url>
+      <subscribers>98</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play - Pokemon White!</name>
+      <url>/user/AerosGameZone</url>
+      <subscribers>28</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Shelby Lets Play</name>
+      <url>/channel/UCSJTSkeInTQtPU3P7SvzW_w</url>
+      <subscribers>2</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play Mari0!</name>
+      <url>/user/qyettv</url>
+      <subscribers>27</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play :DDD</name>
+      <url>/user/suchtlon</url>
+      <subscribers>160</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Virtual Gaming  -  Let&amp;#39;s Play And Fun</name>
+      <url>/user/FrVirtualGaming</url>
+      <subscribers>61</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Alexander Let&amp;#39;s Play</name>
+      <url>/user/alekcanderletsplay</url>
+      <subscribers>73</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play</name>
+      <url>/user/MiticWalkThrough</url>
+      <subscribers>128</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Maxi Lets Play</name>
+      <url>/channel/UC-g0TZb96uqKL8LoQER-NRw</url>
+      <subscribers>7</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play Video Games!</name>
+      <url>/user/bdcpierce</url>
+      <subscribers>54</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Ich höre auf mit den Lets Play&amp;#39;n</name>
+      <url>/user/ZaborgLP</url>
+      <subscribers>49</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Cory</name>
+      <url>/user/CoryGamesify</url>
+      <subscribers>20</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play!</name>
+      <url>/user/LetsPlayFourFun</url>
+      <subscribers>296</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>X-COMputers.eu - Let&amp;#39;s play</name>
+      <url>/user/xcomletsplay</url>
+      <subscribers>20</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>◘ PixelZapp, Lets PLAY! ◘</name>
+      <url>/user/PixelZapp</url>
+      <subscribers>16</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play</name>
+      <url>/channel/UCR40fD8iL_9KQ_kd8dTNsOQ</url>
+      <subscribers>7</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Wolfgang Lets Play</name>
+      <url>/channel/UC1na7TA1d8FOh41oerypuxw</url>
+      <subscribers>4</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>The Lets Play Home of Firey Vampire Octopus</name>
+      <url>/user/FireyVampireOctopus</url>
+      <subscribers>410</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>JudiMakeFun</name>
+      <url>/user/JudiMakeFun</url>
+      <subscribers>21,068</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Akkarin&amp;#39;s Let&amp;#39;s Play</name>
+      <url>/user/AkkarinLP</url>
+      <subscribers>36</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Silver|Let&amp;#39;s Play</name>
+      <url>/user/DigitalSilveR120</url>
+      <subscribers>32</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play Squathen</name>
+      <url>/user/TheSquathen</url>
+      <subscribers>3</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Lets Play 420</name>
+      <url>/user/420LetsPlay</url>
+      <subscribers>44</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>NeoGamerCZ - Recenze a Let&amp;#39;s play</name>
+      <url>/user/NeoGamerCZ</url>
+      <subscribers>1</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>MorSports Coaching - &amp;quot;Let&amp;#39;s play MOR&amp;quot; Sports</name>
+      <url>/channel/UCPGSuhrytyx-4pPPKlw7s2A</url>
+      <subscribers>89,685</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>KeysJore</name>
+      <url>/user/KeysJore</url>
+      <subscribers>22</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Fyrn Spielt (Deutsches Let&amp;#39;s Play)</name>
+      <url>/user/fyrnspielt</url>
+      <subscribers></subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>lets play lj</name>
+      <url>/channel/UC9F_NVV86_YUAjEMdomW5fQ</url>
+      <subscribers>3</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>TCGM - Let&amp;#39;s play !</name>
+      <url>/user/TheCrazyGameMaster</url>
+      <subscribers>160</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>AmnesysGaming | Let&amp;#39;s Play &amp;amp; Multigaming |</name>
+      <url>/user/AmnesysGamers</url>
+      <subscribers>24</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play Some Video Games!!!</name>
+      <url>/user/MrHighwayMagician</url>
+      <subscribers>12</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>lets play roblox</name>
+      <url>/channel/UC4f6zb50P45ixrnCJaM1kfA</url>
+      <subscribers>0</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s PLay</name>
+      <url>/user/EleetsPLay</url>
+      <subscribers>26</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>CyboVision&amp;#39;s Let&amp;#39;s Play</name>
+      <url>/channel/UCWLNvDPIodpfG3KmRGmJVww</url>
+      <subscribers>1</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play&amp;#39;s Located : Here!</name>
+      <url>/user/TheStartFromScratch</url>
+      <subscribers>51</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Aquarius ® YT➀ _ Let&amp;#39;s Play</name>
+      <url>/user/AquariusYT1</url>
+      <subscribers>826</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>-HakGamer- Lets Play - How to do</name>
+      <url>/channel/UCAyUogerpbTimApgzdpEI_g</url>
+      <subscribers>1</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Marcus lets play minecraft</name>
+      <url>/channel/UCApqJr0QjTqu-0Vvmav678g</url>
+      <subscribers>2</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play &amp;quot;Ant Farm&amp;quot; Qui arive Bientot !</name>
+      <url>/user/Dxtory77</url>
+      <subscribers>190</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>RocketHere, Minecraft lets play series!</name>
+      <url>/user/RockettHere</url>
+      <subscribers>63</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>iRich Let&amp;#39;s Play</name>
+      <url>/channel/UCcVIo6g4QQrOo1llnFZx5Kw</url>
+      <subscribers>2</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play with the Wolf!</name>
+      <url>/user/WhiteWolfFangX</url>
+      <subscribers>38</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play Together Channel</name>
+      <url>/user/miNecRaFt2014</url>
+      <subscribers>22</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Crimpson&amp;#39;s Let&amp;#39;s Play</name>
+      <url>/user/CrimpsonsLetsPlay</url>
+      <subscribers>10</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Sygnus&amp;#39; Let&amp;#39;s Play</name>
+      <url>/user/LetsPlaySygnus</url>
+      <subscribers>217</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>CtrlAltDelete Let&amp;#39;s Play</name>
+      <url>/channel/UCYwg4YWOUF4nvv8nbCDwyrg</url>
+      <subscribers>2</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play Cyberpunk</name>
+      <url>/user/Wolfenspice3D</url>
+      <subscribers>41</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play!</name>
+      <url>/user/leetsabre0</url>
+      <subscribers>241</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Lets Play</name>
+      <url>/channel/UC4qB-nx22r3CQ0_oBOLGoXg</url>
+      <subscribers>0</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play ALL THE GAMES!</name>
+      <url>/user/CPTDrAllgood</url>
+      <subscribers>5</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>WiZ Gaming - Let&amp;#39;s play</name>
+      <url>/channel/UCV56MjmcHfQ6qkCbAKMQItw</url>
+      <subscribers>16</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play With Psy</name>
+      <url>/user/PsyPlaysGames</url>
+      <subscribers>7</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s play Osu</name>
+      <url>/channel/UC4iJqI94m1EQqmJrzxMgiiA</url>
+      <subscribers>11</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Family Let&amp;#39;s Play Channel!</name>
+      <url>/user/SaltyySailor</url>
+      <subscribers>10</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>RAS Let&amp;#39;s play</name>
+      <url>/user/RASLP</url>
+      <subscribers>9</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>The Let&amp;#39;s Play Girls</name>
+      <url>/channel/UCVdxtoiUQjJEYLRAuVQbbAQ</url>
+      <subscribers>5</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s play (PL) with AcieK</name>
+      <url>/user/AcieK42</url>
+      <subscribers>38</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play Games!</name>
+      <url>/user/TheRetroNPC</url>
+      <subscribers>13</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>lets play:hill climb racing</name>
+      <url>/channel/UCRZ7EtRBZDcwH51a2eKM4gg</url>
+      <subscribers>3</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>AmieTrix | Let&amp;#39;s Play | Détente | Bonus | Spéciale Abonnés</name>
+      <url>/user/AmieTrixY</url>
+      <subscribers>95</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>xMarcoCraftx ~ Let&amp;#39;s Play Minecraft HD</name>
+      <url>/user/xMarcocraftx</url>
+      <subscribers>49</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play</name>
+      <url>/user/MrLetsplaybitch</url>
+      <subscribers>108</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Antiscamp</name>
+      <url>/user/Antiscamp</url>
+      <subscribers>321</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play with TheGnome777</name>
+      <url>/user/MrThegnome777</url>
+      <subscribers>77</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play Saga Games</name>
+      <url>/channel/UCRb3SW5dYqeJG9Kbb3L8R9Q</url>
+      <subscribers>44</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play Please</name>
+      <url>/user/LetsPlayPleaseVideos</url>
+      <subscribers>3</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Lets Play Rust</name>
+      <url>/user/FreeGames2014</url>
+      <subscribers>426</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>playTV - Let&amp;#39;s Play Retro</name>
+      <url>/user/PlayMassiveRetro</url>
+      <subscribers>2,469</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play with Whit3F0xX</name>
+      <url>/user/Whit3F0xX</url>
+      <subscribers>5</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>JoshJepson</name>
+      <url>/user/JoshJepson</url>
+      <subscribers>161,392</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>P_O_27 Minecraft Lets Play</name>
+      <url>/user/guimath23</url>
+      <subscribers>2,156</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Gnashna Let&amp;#39;s Play!</name>
+      <url>/user/GnashnaGames</url>
+      <subscribers>17</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Lets Play Dreamzy</name>
+      <url>/user/LPDreamzy</url>
+      <subscribers>61</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>torf.0&amp;#39; &amp;quot;let&amp;#39;s play&amp;quot;s</name>
+      <url>/user/pokeTORFdot0</url>
+      <subscribers>8</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play NextGen</name>
+      <url>/channel/UCceV0nZ0MH_0YdbQM7qRBvQ</url>
+      <subscribers>18</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>ZOGGNÄ - Let&amp;#39;s Play!</name>
+      <url>/user/Zoggnae</url>
+      <subscribers>106</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Lets Play CZ/SK</name>
+      <url>/user/MyGameS3NL</url>
+      <subscribers>3,565</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>LETS PLAY GAMES GERMAN !!!</name>
+      <url>/user/LetsGameplays</url>
+      <subscribers>131</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play [AdventureMaps]</name>
+      <url>/user/KlickMeLP</url>
+      <subscribers>17</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play Hacks n&amp;#39; Stuff!</name>
+      <url>/user/I8Strudel</url>
+      <subscribers>308</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>MinecraftThisCow&amp;#39;s Let&amp;#39;s Play Tuts and more</name>
+      <url>/user/MinecraftThisCow</url>
+      <subscribers>30</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play, HAKAY!</name>
+      <url>/channel/UCDuXArzTU5az8AeuIMpIqKA</url>
+      <subscribers>4</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>let&amp;#39;s play</name>
+      <url>/channel/UC_lpQhb85ELjo0KpIy3pjKw</url>
+      <subscribers>0</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>ErniePlay  Let&amp;#39;s Play</name>
+      <url>/user/ErniePlay</url>
+      <subscribers>3</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>YuriofwindGameplay</name>
+      <url>/user/YuriofwindGameplay</url>
+      <subscribers>18,498</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Tiberianus Lets Play&amp;#39;s</name>
+      <url>/user/TiberianusDEE</url>
+      <subscribers>24</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play It!</name>
+      <url>/user/Llaandr</url>
+      <subscribers>202</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play w/ Anonymiles!</name>
+      <url>/user/Anonymiles</url>
+      <subscribers>8</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Silver Let&amp;#39;s Play!</name>
+      <url>/channel/UCUnkBBooSGEa6LMb55Y-OCg</url>
+      <subscribers>8</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>#1 Let&amp;#39;s Play Community Channel</name>
+      <url>/user/iLoveThemGames</url>
+      <subscribers>335</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>lets play Master</name>
+      <url>/channel/UChhWAS_NjPR4t_goBQvVayA</url>
+      <subscribers>2</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Drunken Let&amp;#39;s Play</name>
+      <url>/channel/UCKgwUly1Imvt5MfcbHdhCDg</url>
+      <subscribers>3</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Clash of Clans Lets Play!</name>
+      <url>/channel/UCGyB1wxcJ0Jlu045tVEJRiA</url>
+      <subscribers>5</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Lets Play Some Games</name>
+      <url>/user/ZhuhGames</url>
+      <subscribers>66</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Funnycraft9166</name>
+      <url>/user/Funnycraft9166</url>
+      <subscribers>38</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play auf Knochen!!</name>
+      <url>/user/PantheosLP</url>
+      <subscribers>15</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>let&amp;#39;s play monster hunter</name>
+      <url>/user/MrRathiankiller</url>
+      <subscribers>6</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>TheNoobStampLP</name>
+      <url>/user/TheNoobStampLP</url>
+      <subscribers>159</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>WhatEver... Lets Play :D</name>
+      <url>/user/DJsFuckTheSystem</url>
+      <subscribers>30</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Xoxenknight Let&amp;#39;s Play</name>
+      <url>/user/XoxenKnight</url>
+      <subscribers>64</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play Everything!</name>
+      <url>/user/xXLethalAZXx</url>
+      <subscribers>18</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>EinQuantumPro</name>
+      <url>/user/EinQuantumPro</url>
+      <subscribers>87,270</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>TheSonixLP - Czech Let&amp;#39;s Play</name>
+      <url>/user/TheNavriLP</url>
+      <subscribers>25</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>The lets play chanel with a hedgehog</name>
+      <url>/user/Shadoilveric19</url>
+      <subscribers>122</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>david lets play</name>
+      <url>/channel/UCVKzyPIe4lqRKjlVs4t01gw</url>
+      <subscribers>3</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play + Redstone + More!</name>
+      <url>/user/imGhostOfYou</url>
+      <subscribers>119</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>NeverHide Let&amp;#39;s Play</name>
+      <url>/channel/UC1WySyzryoK661hvu5WR46w</url>
+      <subscribers>8</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play Lame Games</name>
+      <url>/user/LetsPlayLameGames</url>
+      <subscribers>4</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s play PCM Go !!</name>
+      <url>/user/XxPoKsSFuT45xX</url>
+      <subscribers>573</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>XgamesX Lets Play</name>
+      <url>/user/XgameXextreme</url>
+      <subscribers>552</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play GryKamilio HD</name>
+      <url>/user/GryKamilio</url>
+      <subscribers>95</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Coden&amp;#39;s Let&amp;#39;s Play Channel</name>
+      <url>/user/TheDirgeofEramak</url>
+      <subscribers>190</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play mit alpine</name>
+      <url>/user/alpineLPs</url>
+      <subscribers>991</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Lets Play Pc</name>
+      <url>/user/LetsPlayComputer</url>
+      <subscribers>25</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play... With L◊FE!</name>
+      <url>/user/iGamerGirl10</url>
+      <subscribers>15</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>GFCJake Let&amp;#39;s Play&amp;#39;s</name>
+      <url>/channel/UCe7gOhe-CjR0behQvybd37w</url>
+      <subscribers>1</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Lets Play Real Life... =D</name>
+      <url>/user/LgameJ</url>
+      <subscribers>29</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play Poker</name>
+      <url>/user/LPPlive</url>
+      <subscribers>21,424</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play</name>
+      <url>/user/soniconlythebrave</url>
+      <subscribers>18</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>XDWafflesFTW: Let&amp;#39;s Play Some Games!</name>
+      <url>/user/XDWafflesFTW</url>
+      <subscribers>55</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play with Tyr</name>
+      <url>/user/letstyr</url>
+      <subscribers>22</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Good Friends Lets Play</name>
+      <url>/user/Letsplaynm</url>
+      <subscribers>76</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Chpaha Let&amp;#39;s Play</name>
+      <url>/channel/UCUCEEfeJfFVY_aaRQo_p7qA</url>
+      <subscribers>5</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play Minecraft</name>
+      <url>/user/lpminecraftvideos</url>
+      <subscribers>674</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s play （sharing games）</name>
+      <url>/channel/UCEuxD5yOr18Bmdc2_v6QAhg</url>
+      <subscribers>4</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play with Kios!</name>
+      <url>/user/KiosraigekiLP</url>
+      <subscribers>26</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play | Tsunami Production</name>
+      <url>/channel/UCTWorPp0xXV-qiD7GsnxZuQ</url>
+      <subscribers>5</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play with Ashieteru616</name>
+      <url>/user/616Ashieteru</url>
+      <subscribers>109</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Supreme&amp;#39;s Let&amp;#39;s Play Channel</name>
+      <url>/user/NintendoSupreme64</url>
+      <subscribers>15</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>zoton2 does Let&amp;#39;s Play</name>
+      <url>/user/zoton2lp</url>
+      <subscribers>10</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Lets Erik Play</name>
+      <url>/channel/UCAAjm8M6soQR5j6w4hRqJog</url>
+      <subscribers>36</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>LET&amp;#39;S PLAY BATTLEFIELD 3</name>
+      <url>/user/LPBF3</url>
+      <subscribers>70</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play with Team Kobaugh</name>
+      <url>/user/TeamKobaugh</url>
+      <subscribers>32</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play ROBLOX!</name>
+      <url>/channel/UC4xGCvJYfSgPsSKaPd02f8g</url>
+      <subscribers>9</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>DMD Let&amp;#39;s Play</name>
+      <url>/user/DMDLetsPlay</url>
+      <subscribers>2</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Lets Play Gameplay</name>
+      <url>/channel/UCNcO5bpDpkgui7gQem4u31g</url>
+      <subscribers>2</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play Games</name>
+      <url>/channel/UCmx-7b3mXSNu5lvun7v2Vqw</url>
+      <subscribers>3</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play! xD</name>
+      <url>/user/MrLetsPlayer13</url>
+      <subscribers>135</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Usta Lets-Play</name>
+      <url>/channel/UCqP_1CUBgk3yZmvgmZOG_9w</url>
+      <subscribers>153</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play</name>
+      <url>/user/LtKenmore</url>
+      <subscribers>8</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play Walktrought&amp;#39;s</name>
+      <url>/user/n64MasterTut2</url>
+      <subscribers>11</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>OFC Let&amp;#39;s Play</name>
+      <url>/user/ofcletsplay</url>
+      <subscribers>164</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>MrAwesome198 Let&amp;#39;s Play Sly Cooper!!</name>
+      <url>/channel/UCv35NZjvKzF7oRPUBj4hljQ</url>
+      <subscribers>0</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play TGB</name>
+      <url>/user/LetsPlayTGB</url>
+      <subscribers>1</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Trask Nari</name>
+      <url>/user/TraskNari</url>
+      <subscribers>15,363</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>BroSheep Let&amp;#39;s Play&amp;#39;s</name>
+      <url>/user/BroChanel</url>
+      <subscribers>32</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Lets Play Civilization 5</name>
+      <url>/user/ClassyGentlemen</url>
+      <subscribers>230</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Lets Play</name>
+      <url>/channel/UCsLjEJPV4e1biS-kXopHAxQ</url>
+      <subscribers>63</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Kit&amp;#39;s Let&amp;#39;s Play</name>
+      <url>/user/cuteykittyhoney086</url>
+      <subscribers>466</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Geeks of the Round Table Let&amp;#39;s Play</name>
+      <url>/user/roundtableplays</url>
+      <subscribers>13</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Minecraft Let&amp;#39;s Play</name>
+      <url>/user/Dragonitemas</url>
+      <subscribers>41</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play Games!</name>
+      <url>/user/OLetsPlay</url>
+      <subscribers>12</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Xbox Lets play</name>
+      <url>/channel/UCOhWCU-HH1CY-6LHLXC6YoQ</url>
+      <subscribers>5</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Lets Play KAPOW</name>
+      <url>/user/LetsPlayKAPOW</url>
+      <subscribers>11</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>BbH Let&amp;#39;s Play</name>
+      <url>/user/BbHLetsPlay</url>
+      <subscribers>281</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Itchy - Lets play</name>
+      <url>/user/itchydeath</url>
+      <subscribers>17</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play Gamer O&amp;#39;s</name>
+      <url>/user/LetsPlayGameros</url>
+      <subscribers>7</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Respawn Let&amp;#39;s Play</name>
+      <url>/user/RespawnLetsPlay</url>
+      <subscribers>4</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Kyrios│Minecraft et Let&amp;#39;s play</name>
+      <url>/channel/UC_ppxydQkbOFpCrPP8ME7sg</url>
+      <subscribers>15</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Sunny lets play</name>
+      <url>/channel/UC87hew_OjQHgJLiFVvoNz9A</url>
+      <subscribers>24</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play  ThomasRaudi10 :D</name>
+      <url>/user/ThomasRaudi10</url>
+      <subscribers>11</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>PanzerDivision&amp;#39;s Let&amp;#39;s Play Kanal</name>
+      <url>/user/129thPanzerDivision</url>
+      <subscribers>269</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Vidja Gaemz? Let&amp;#39;s Play!!</name>
+      <url>/user/dashrollrush</url>
+      <subscribers>330</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Defective Lets Play</name>
+      <url>/user/DefectiveLetsPlay</url>
+      <subscribers>18</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Lets Play Games!</name>
+      <url>/user/ChaosControlGaming</url>
+      <subscribers>11</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play with PrestoPlays</name>
+      <url>/user/PrestoPlays</url>
+      <subscribers>28</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play and More [German :)</name>
+      <url>/user/EssenerGamingTV</url>
+      <subscribers>31</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Lets Play</name>
+      <url>/channel/UCbfLN6qrgPlEffzXKrAg4aA</url>
+      <subscribers>33</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play ohne Stil.</name>
+      <url>/user/sputtiLP</url>
+      <subscribers>507</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>SakimotoFanboy&amp;#39;s Let&amp;#39;s Play Channel</name>
+      <url>/user/SakimotoFanboy</url>
+      <subscribers>2,998</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Dios Let&amp;#39;s Plays</name>
+      <url>/user/Cronista97</url>
+      <subscribers>2</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play Woozworld</name>
+      <url>/channel/UCJNfi9XA3-m-YxcfZJOPiwA</url>
+      <subscribers>14</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play World Of Tanks [german]</name>
+      <url>/channel/UC0YvDRY5Sgjf3QLtWFt0URQ</url>
+      <subscribers>9</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Razphomy | Let&amp;#39;s Play &amp;amp; Game Commentary</name>
+      <url>/user/Razphomy</url>
+      <subscribers>6,473,259</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>TobyGames</name>
+      <url>/user/TobyGames</url>
+      <subscribers>41</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Lets Play &amp;amp; Game Walkthroughs</name>
+      <url>/user/iJamezz</url>
+      <subscribers>17</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s play im Taco</name>
+      <url>/user/TacoHoodLP</url>
+      <subscribers>1</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>LET&amp;#39;S PLAY</name>
+      <url>/channel/UCvdhB4g5oXkMZFbIBpJS1VQ</url>
+      <subscribers>16</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Zangetsu Does Lets Play</name>
+      <url>/channel/UCBiear7cWJkJdXAEPabKpPA</url>
+      <subscribers>237</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Welcome To The Let&amp;#39;s Play Zone</name>
+      <url>/user/jamikafilms</url>
+      <subscribers>8</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Lets Play CoC</name>
+      <url>/channel/UC2kdw2uFCd88GPaTePjgm_g</url>
+      <subscribers>19</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Rose Colored Let&amp;#39;s Play!!</name>
+      <url>/user/RoseColoredLetsPlay</url>
+      <subscribers>12</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play in the Darkness</name>
+      <url>/user/DeathiciousPlayz</url>
+      <subscribers>369</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s play</name>
+      <url>/user/GhostRiderZeroN9ner</url>
+      <subscribers>20,005</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Chip and Ironicus Let&amp;#39;s Plays</name>
+      <url>/user/ChipCheezumLPs</url>
+      <subscribers>80</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Seraf Lets Play</name>
+      <url>/user/SerafLP</url>
+      <subscribers></subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>данил (lets-play)</name>
+      <url>/channel/UCGg_-FdyDSTKOjywCnaofBg</url>
+      <subscribers>22</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>xBlur Let&amp;#39;s Play..</name>
+      <url>/user/letsplayinside7</url>
+      <subscribers>2</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>JAKE BRAVO LETS PLAY</name>
+      <url>/channel/UCy6LS6eyspc8YHnqnwbO3RA</url>
+      <subscribers>3</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Strawb3rry&amp;#39;s Let&amp;#39;s Play Channel</name>
+      <url>/user/Strawb3rryDragon</url>
+      <subscribers>8</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play</name>
+      <url>/user/WiiNl</url>
+      <subscribers>1</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Hardcore Gamers [Let&amp;#39;s Play/other]</name>
+      <url>/channel/UCzv5ekuN2-4aIUUZjUsuv6Q</url>
+      <subscribers>4</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play!</name>
+      <url>/user/ionutz671</url>
+      <subscribers>3</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play</name>
+      <url>/user/FictionalAffliction</url>
+      <subscribers>44</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Lets play with Эzis</name>
+      <url>/channel/UCAHuxGe-HSKg-Ye4P3cMcFg</url>
+      <subscribers>11</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Lets Play With Larenton</name>
+      <url>/user/TheLarenton</url>
+      <subscribers>49</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>OllieDreama™- Lets Play</name>
+      <url>/user/TrillGamerNation</url>
+      <subscribers>1,254</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Ranger and Silence Let&amp;#39;s Play Together</name>
+      <url>/user/RangerLetsPlay</url>
+      <subscribers>18</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s play Sonic Generations</name>
+      <url>/user/RedStrikerOne</url>
+      <subscribers>8</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Uki Let&amp;#39;s Play</name>
+      <url>/channel/UCVnAsOnaHVyuKdjdUAEq7Xg</url>
+      <subscribers>0</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Lets.Play.Xbox.Productions</name>
+      <url>/user/Letsplayxboxproducti</url>
+      <subscribers>4</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>NewVegasLP - Let&amp;#39;s Play&amp;#39;s mit Humor :)</name>
+      <url>/user/NewVegasLP</url>
+      <subscribers>15</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Home of the Let&amp;#39;s Play</name>
+      <url>/user/FrostysLPs</url>
+      <subscribers>63</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>DGL Lets Play</name>
+      <url>/user/dglletsplay</url>
+      <subscribers>8</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Saraxs Lets Play</name>
+      <url>/user/Saraxgame</url>
+      <subscribers>14</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>PerplexityVariety&amp;#39;s Let&amp;#39;s Play! Channel</name>
+      <url>/user/PerplexityVariety</url>
+      <subscribers>1,080</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>doubledigital lets play</name>
+      <url>/channel/UCc0rLFezo9O0SUVKZBLYZRw</url>
+      <subscribers>7</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>ServedArts Let&amp;#39;s Play! -Finn</name>
+      <url>/user/ServedArts</url>
+      <subscribers>77</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Das-lets-Play NiklasandMaxi</name>
+      <url>/channel/UC970TaeG_tNfhePsaIM2kgQ</url>
+      <subscribers>2</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Deutsche Let&amp;#39;s Play&amp;#39;s</name>
+      <url>/user/MrWeskerLP</url>
+      <subscribers>12</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Leghion Plays: Sit down and let&amp;#39;s play...</name>
+      <url>/user/LeghionPlays</url>
+      <subscribers>79</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Your Lets Play Destination!!</name>
+      <url>/user/mrmret</url>
+      <subscribers>18</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>LordMinion777</name>
+      <url>/user/LordMinion777</url>
+      <subscribers>101,426</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>MafuyuX</name>
+      <url>/user/MafuyuX</url>
+      <subscribers>136,288</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>RazerGamez - Minecraft, Let&amp;#39;s Play,Server Review &amp;amp; More!</name>
+      <url>/user/mancakgaming</url>
+      <subscribers>353</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>ClementJ642</name>
+      <url>/user/ClementJ642</url>
+      <subscribers>78,989</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>JeromeASF</name>
+      <url>/user/JeromeASF</url>
+      <subscribers>2,831,360</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>ALEX. Let&amp;#39;s Play по ФАНУ, и море позитива!</name>
+      <url>/user/SuperAlexworld</url>
+      <subscribers>305,965</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>xHitoBiteZ</name>
+      <url>/user/xHitoBitez</url>
+      <subscribers>352</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Tetra Ninja</name>
+      <url>/user/tetraninja</url>
+      <subscribers>567,207</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Vane | Let&amp;#39;s Play</name>
+      <url>/user/VaneLetsPlay</url>
+      <subscribers>524</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>The SaD Games</name>
+      <url>/user/TheSaDGames</url>
+      <subscribers>2,453</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>aypierre - minecraft et gaming</name>
+      <url>/user/aypierre</url>
+      <subscribers>646,357</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>lucahjin</name>
+      <url>/user/lucahjin</url>
+      <subscribers>98,309</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Lets Play Homie Homigamer</name>
+      <url>/channel/UC6RbPB8zx_dr8WZFWhgljRQ</url>
+      <subscribers>0</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Прохождения от LetsPlayUA</name>
+      <url>/user/dimamaloy2008</url>
+      <subscribers>2,946</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>PietSmiet</name>
+      <url>/user/PietSmittie</url>
+      <subscribers>1,487,755</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>ChristopherOdd</name>
+      <url>/user/ChristopherOdd</url>
+      <subscribers>37,202</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Tschallacka&amp;#39;s Let&amp;#39;s Play Minecraft</name>
+      <url>/channel/UCB9-3HYcCzvkkUwMYUtV-5A</url>
+      <subscribers>0</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Level Up Gaming - Lets Play&amp;#39;s</name>
+      <url>/channel/UCHQJ3_jyxW_jpgsZZaCNW_Q</url>
+      <subscribers>0</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>TheCampingRusher</name>
+      <url>/user/TheCampingRusher</url>
+      <subscribers>268,314</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Nick`s let&amp;#39;s play channel.</name>
+      <url>/channel/UC2nPTwmz-EX0w3w3NWqgmOA</url>
+      <subscribers>0</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Lets Play Players</name>
+      <url>/channel/UCmGjmto2LIhf-kk1AHG44IQ</url>
+      <subscribers>0</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play</name>
+      <url>/user/LetPlayBr</url>
+      <subscribers>8</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>bazinga lets play</name>
+      <url>/channel/UCOHgu2U_zUHRtGPVen0q1mQ</url>
+      <subscribers>0</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Shon Let&amp;#39;s Play Metin2</name>
+      <url>/channel/UClHkQ-0S1_Q4rXb4GUFaQiA</url>
+      <subscribers>2</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>BrutalSeverity</name>
+      <url>/user/BrutalSeverity</url>
+      <subscribers>911</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Damacia | Let&amp;#39;s Play</name>
+      <url>/channel/UC8AOVk-YYOH8fDRkhKBGPnw</url>
+      <subscribers>3</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>let&amp;#39;s play et gameplay</name>
+      <url>/channel/UCaM51pW_sVFfIh33b0UcbEQ</url>
+      <subscribers>0</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>OfficialNerdCubed</name>
+      <url>/user/OfficialNerdCubed</url>
+      <subscribers>1,619,657</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Let&amp;#39;s Play Random</name>
+      <url>/user/LetsPlayRandomable</url>
+      <subscribers>0</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>TheBajanCanadian</name>
+      <url>/user/TheBajanCanadian</url>
+      <subscribers>3,452,616</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>CaptainSparklez</name>
+      <url>/user/CaptainSparklez</url>
+      <subscribers>7,231,961</subscribers>
+      <bad>1</bad>
+      <sent>True</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>stampylonghead</name>
+      <url>/user/stampylonghead</url>
+      <subscribers>2,243,885</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>FRANKIEonPCin1080p</name>
+      <url>/user/FRANKIEonPCin1080p</url>
+      <subscribers>1,538,691</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>GoGoManTV</name>
+      <url>/user/GoGoManTV</url>
+      <subscribers>643,933</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Best Walking Dead Moments I Traillers I</name>
+      <url>/channel/UCPMwT2VFkKrDJFEXUoiY8Cw</url>
+      <subscribers>7</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Gronkh</name>
+      <url>/user/Gronkh</url>
+      <subscribers>2,783,154</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Frigiel</name>
+      <url>/user/Frigiel</url>
+      <subscribers>757,106</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Zombey</name>
+      <url>/user/Zombey</url>
+      <subscribers>468,057</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>adlingtont</name>
+      <url>/user/adlingtont</url>
+      <subscribers>47,317</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Superbrioche666</name>
+      <url>/user/Superbrioche666</url>
+      <subscribers>184,417</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>GodsonCoc</name>
+      <url>/user/GodsonCoC</url>
+      <subscribers>221,194</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Eurogamer</name>
+      <url>/user/Eurogamer</url>
+      <subscribers>71,976</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>AR12Gaming</name>
+      <url>/user/AR12Gaming</url>
+      <subscribers>79,523</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>theRadBrad</name>
+      <url>/user/theRadBrad</url>
+      <subscribers>2,526,352</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>Masterkizz Australian Gamer</name>
+      <url>/user/Masterkizz</url>
+      <subscribers>80,111</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>FireJay</name>
+      <url>/user/FireJayReal</url>
+      <subscribers>4</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>youtubedude</name>
+      <url>/user/youtubedude</url>
+      <subscribers>248,341</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+    <channel>
+      <name>YoshiGM</name>
+      <url>/user/YoshiGM</url>
+      <subscribers>1,495</subscribers>
+      <bad>0</bad>
+      <sent>False</sent>
+      <viewed>False</viewed>
+    </channel>
+  </nodes>
+</root>
